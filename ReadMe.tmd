@@ -1,0 +1,3 @@
+cd to msoLab Directory
+Run this comand in cmd
+java -jar Main.jar NEW_DATA_ver3_15082020 0 30 
